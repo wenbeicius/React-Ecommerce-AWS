@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "server",
+        "host": "zluster1-br5lq.mongodb.net",
+        "srv": "true",
+        "port": "27017",
+        "username": "MasterDaber",
+        "password": "Bz198683"
+      },
+      "options": {
+        "authenticationDatabase": "admin",
+        "ssl": true
+      }
+    }
+  }
+}
